@@ -1,0 +1,41 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "BannerSlice",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Recontextualize holistic supply-chains",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Labore duis quis sit velit proident voluptate tempor.",
+          "spans": []
+        }
+      ],
+      "link": {
+        "link_type": "Web",
+        "url": "https://prismic.io"
+      },
+      "linkLabel": "aggregate leading-edge experiences",
+      "background": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?w=900&h=500&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "banner_slice"
+  }
+]

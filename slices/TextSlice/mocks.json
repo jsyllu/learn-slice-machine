@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TextSlice",
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Id id ullamco ex aliquip cupidatat id velit amet incididunt aliquip in sit nisi sint laborum. Nostrud ea deserunt nulla ad reprehenderit consequat est reprehenderit. Aute occaecat consectetur esse ad tempor esse irure sint do commodo occaecat officia voluptate.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "text_slice"
+  }
+]

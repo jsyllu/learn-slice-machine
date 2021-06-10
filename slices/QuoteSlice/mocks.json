@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "QuoteSlice",
+    "primary": {
+      "quotetext": [
+        {
+          "type": "paragraph",
+          "text": "Ex voluptate aute esse nostrud. Quis in laborum excepteur enim. Ad ullamco excepteur ullamco et voluptate culpa labore proident mollit dolor reprehenderit.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "quote_slice"
+  }
+]

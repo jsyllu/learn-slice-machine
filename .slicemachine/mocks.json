@@ -1,0 +1,73 @@
+{
+  "BannerSlice": {
+    "primary": {
+      "background": {
+        "content": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85"
+      },
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "FullWidthImage": {
+    "primary": {}
+  },
+  "ImageGallery": {
+    "primary": {
+      "galleryTitle": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "FeaturedImage": {
+    "primary": {
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "headline": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "featuredImage": {
+        "content": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1"
+      }
+    }
+  },
+  "QuoteSlice": {
+    "primary": {
+      "quotetext": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "TextSlice": {
+    "primary": {
+      "text": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}
